@@ -1,0 +1,2 @@
+$var name = casper
+if($(name) = casper)
